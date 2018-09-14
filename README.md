@@ -1,6 +1,8 @@
 Code and data for the second edition of the textbook
 `Machine Learning: An Algorithm Perspective" by Stephen Marsland.
 
+Edited for use in a reading club. Mainly added iPython/Jupyter notebooks. Looking for only the original code from the book? Check the original repo, https://github.com/alexsosn/MarslandMLAlgo
+
 For more details, see http://stephenmonika.net.
 
 All code is available under the following license.
